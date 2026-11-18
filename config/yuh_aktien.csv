@@ -47,7 +47,7 @@ NESN.SW;Nestlé;SIX;CHF;Konsum & Nahrungsmittel;
 NOVN.SW;Novartis;SIX;CHF;Pharma & Medtech;
 PGHN.SW;Partners Group;SIX;CHF;Banken & Vermögensverwaltung;
 PSPN.SW;PSP Swiss Property;SIX;CHF;Immobilien;
-ROG.SW;Roche;SIX;CHF;Pharma & Medtech;
+RO.SW;Roche;SIX;CHF;Pharma & Medtech;"Yahoo liefert für ROG.SW keine Kurse; Ersatz RO.SW prüfen"
 SCHN.SW;Schindler;SIX;CHF;Industrie & Infrastruktur;
 SCMN.SW;Swisscom;SIX;CHF;Telekom;
 SDZ.SW;Sandoz;SIX;CHF;Pharma & Medtech;
@@ -128,7 +128,6 @@ DIS;Walt Disney;NYSE;USD;Medien, Gaming & Sport;
 DKNG;DraftKings;NASDAQ;USD;Medien, Gaming & Sport;
 DKS;Dick's Sporting Goods;NYSE;USD;Detailhandel;
 DPZ;Domino's Pizza;NASDAQ;USD;Konsum & Nahrungsmittel;
-EA;Electronic Arts;NASDAQ;USD;Medien, Gaming & Sport;
 EBAY;eBay;NASDAQ;USD;Internet & Plattformen;
 EL;Estée Lauder;NYSE;USD;Luxus & Mode;
 ENPH;Enphase Energy;NASDAQ;USD;Erneuerbare & Versorger;
@@ -138,7 +137,6 @@ EXPE;Expedia;NASDAQ;USD;Reisen & Freizeit;
 F;Ford;NYSE;USD;Auto & E-Mobilität;
 FDX;FedEx;NYSE;USD;Logistik & Transport;
 FIG;Figma;NYSE;USD;Software & Cloud;
-FL;Foot Locker;NYSE;USD;Detailhandel;evtl. nach Übernahme durch Dick's nicht mehr gehandelt
 FSLR;First Solar;NASDAQ;USD;Erneuerbare & Versorger;
 FTNT;Fortinet;NASDAQ;USD;Cybersecurity;
 FWONK;Liberty Media (Formula One);NASDAQ;USD;Medien, Gaming & Sport;
@@ -165,7 +163,6 @@ INTU;Intuit;NASDAQ;USD;Software & Cloud;
 IONQ;IonQ;NYSE;USD;Quantencomputing;
 JNJ;Johnson & Johnson;NYSE;USD;Pharma & Medtech;
 JPM;JPMorgan Chase;NYSE;USD;Banken & Vermögensverwaltung;
-K;Kellanova;NYSE;USD;Konsum & Nahrungsmittel;evtl. nach Übernahme durch Mars nicht mehr gehandelt
 KHC;Kraft Heinz;NASDAQ;USD;Konsum & Nahrungsmittel;
 KLAC;KLA;NASDAQ;USD;KI & Halbleiter;
 KLAR;Klarna;NYSE;USD;Fintech & Krypto;
@@ -257,7 +254,6 @@ V;Visa;NYSE;USD;Fintech & Krypto;
 VALE;Vale;NYSE;USD;Rohstoffe & Chemie;
 VST;Vistra;NYSE;USD;Erneuerbare & Versorger;
 VZ;Verizon;NYSE;USD;Telekom;
-WBD;Warner Bros. Discovery;NASDAQ;USD;Medien, Gaming & Sport;
 WDAY;Workday;NASDAQ;USD;Software & Cloud;
 WMT;Walmart;NYSE;USD;Detailhandel;
 WW;WW International;NASDAQ;USD;Konsum & Nahrungsmittel;nach Sanierung 2025 neu gelistet
@@ -274,7 +270,6 @@ BMW.DE;BMW;XETRA;EUR;Auto & E-Mobilität;
 BOSS.DE;Hugo Boss;XETRA;EUR;Luxus & Mode;
 BVB.DE;Borussia Dortmund;XETRA;EUR;Medien, Gaming & Sport;
 CBK.DE;Commerzbank;XETRA;EUR;Banken & Vermögensverwaltung;
-5CV.DE;CureVac;XETRA;EUR;Biotech;evtl. nach Übernahme durch BioNTech nicht mehr gehandelt
 DBK.DE;Deutsche Bank;XETRA;EUR;Banken & Vermögensverwaltung;
 DHL.DE;DHL Group (Deutsche Post);XETRA;EUR;Logistik & Transport;
 DTE.DE;Deutsche Telekom;XETRA;EUR;Telekom;
