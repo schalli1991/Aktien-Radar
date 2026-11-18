@@ -1,0 +1,337 @@
+{
+ "monat": "2026-10",
+ "titel": [
+  "MU",
+  "SPHR",
+  "005930.KS",
+  "INTC",
+  "AMD",
+  "AMAT",
+  "KLAC",
+  "TSM",
+  "GLEN.L",
+  "ASML.AS",
+  "MRNA",
+  "DELL",
+  "VACN.SW",
+  "IFX.DE",
+  "ARM",
+  "PANW",
+  "FTNT",
+  "CRWD",
+  "DOCM.SW",
+  "AMS.SW"
+ ],
+ "historie": [
+  {
+   "monat": "2024-11",
+   "datum": "2024-11-29",
+   "rein": [
+    "SHAK",
+    "IBKR"
+   ],
+   "raus": [
+    "SMCI",
+    "AFRM"
+   ]
+  },
+  {
+   "monat": "2024-12",
+   "datum": "2024-12-31",
+   "rein": [
+    "RGTI"
+   ],
+   "raus": [
+    "AVGO"
+   ]
+  },
+  {
+   "monat": "2025-01",
+   "datum": "2025-01-31",
+   "rein": [
+    "IONQ",
+    "TSLA"
+   ],
+   "raus": [
+    "META",
+    "DELL"
+   ]
+  },
+  {
+   "monat": "2025-02",
+   "datum": "2025-02-28",
+   "rein": [
+    "AS",
+    "MMM",
+    "ONON",
+    "TKO"
+   ],
+   "raus": [
+    "COIN",
+    "ARM",
+    "NVAX",
+    "SHAK"
+   ]
+  },
+  {
+   "monat": "2025-03",
+   "datum": "2025-03-31",
+   "rein": [
+    "RDDT",
+    "SOFI",
+    "HFG.DE",
+    "AFRM",
+    "GALD.SW",
+    "NVAX"
+   ],
+   "raus": [
+    "NVDA",
+    "MSTR",
+    "GE",
+    "TSM",
+    "ACLN.SW",
+    "ONON"
+   ]
+  },
+  {
+   "monat": "2025-04",
+   "datum": "2025-04-30",
+   "rein": [
+    "MSTR",
+    "PTON",
+    "TKA.DE",
+    "GLE.PA"
+   ],
+   "raus": [
+    "IBKR",
+    "HFG.DE",
+    "AFRM",
+    "GALD.SW"
+   ]
+  },
+  {
+   "monat": "2025-05",
+   "datum": "2025-05-30",
+   "rein": [
+    "RBLX",
+    "FTNT",
+    "NFLX"
+   ],
+   "raus": [
+    "VST",
+    "MMM",
+    "NVAX"
+   ]
+  },
+  {
+   "monat": "2025-06",
+   "datum": "2025-06-30",
+   "rein": [
+    "HFG.DE"
+   ],
+   "raus": [
+    "TKO"
+   ]
+  },
+  {
+   "monat": "2025-07",
+   "datum": "2025-07-31",
+   "rein": [
+    "VST",
+    "AFRM"
+   ],
+   "raus": [
+    "TSLA",
+    "HFG.DE"
+   ]
+  },
+  {
+   "monat": "2025-08",
+   "datum": "2025-08-29",
+   "rein": [
+    "MP",
+    "NET"
+   ],
+   "raus": [
+    "PTON",
+    "FTNT"
+   ]
+  },
+  {
+   "monat": "2025-09",
+   "datum": "2025-09-30",
+   "rein": [],
+   "raus": []
+  },
+  {
+   "monat": "2025-10",
+   "datum": "2025-10-31",
+   "rein": [
+    "IDIA.SW",
+    "IMPN.SW",
+    "SNOW"
+   ],
+   "raus": [
+    "MSTR",
+    "NFLX",
+    "VST"
+   ]
+  },
+  {
+   "monat": "2025-11",
+   "datum": "2025-11-28",
+   "rein": [
+    "AVGO",
+    "MU",
+    "CBK.DE",
+    "CELH"
+   ],
+   "raus": [
+    "SPOT",
+    "AS",
+    "RDDT",
+    "AFRM"
+   ]
+  },
+  {
+   "monat": "2025-12",
+   "datum": "2025-12-31",
+   "rein": [
+    "SPHR",
+    "SAN.MC"
+   ],
+   "raus": [
+    "RGTI",
+    "IONQ"
+   ]
+  },
+  {
+   "monat": "2026-01",
+   "datum": "2026-01-30",
+   "rein": [
+    "005930.KS",
+    "INTC",
+    "AMD"
+   ],
+   "raus": [
+    "RBLX",
+    "NET",
+    "SNOW"
+   ]
+  },
+  {
+   "monat": "2026-02",
+   "datum": "2026-02-27",
+   "rein": [],
+   "raus": []
+  },
+  {
+   "monat": "2026-03",
+   "datum": "2026-03-31",
+   "rein": [
+    "AMAT",
+    "CAT",
+    "KLAC",
+    "TSM",
+    "RGTI"
+   ],
+   "raus": [
+    "APP",
+    "SOFI",
+    "TKA.DE",
+    "CBK.DE",
+    "CELH"
+   ]
+  },
+  {
+   "monat": "2026-04",
+   "datum": "2026-04-30",
+   "rein": [
+    "PLUG",
+    "GLEN.L",
+    "VWS.CO",
+    "ENI.MI",
+    "ASML.AS",
+    "MRNA"
+   ],
+   "raus": [
+    "RR.L",
+    "HOOD",
+    "PLTR",
+    "GLE.PA",
+    "IMPN.SW",
+    "SAN.MC"
+   ]
+  },
+  {
+   "monat": "2026-05",
+   "datum": "2026-05-29",
+   "rein": [
+    "GPRO"
+   ],
+   "raus": [
+    "RGTI"
+   ]
+  },
+  {
+   "monat": "2026-06",
+   "datum": "2026-06-30",
+   "rein": [
+    "DELL",
+    "RGTI"
+   ],
+   "raus": [
+    "AVGO",
+    "GPRO"
+   ]
+  },
+  {
+   "monat": "2026-07",
+   "datum": "2026-07-31",
+   "rein": [
+    "VACN.SW",
+    "IFX.DE",
+    "ARM",
+    "PANW"
+   ],
+   "raus": [
+    "MP",
+    "VWS.CO",
+    "ENI.MI",
+    "RGTI"
+   ]
+  },
+  {
+   "monat": "2026-08",
+   "datum": "2026-08-31",
+   "rein": [
+    "FTNT"
+   ],
+   "raus": [
+    "PLUG"
+   ]
+  },
+  {
+   "monat": "2026-09",
+   "datum": "2026-09-30",
+   "rein": [
+    "CRWD",
+    "DOCM.SW"
+   ],
+   "raus": [
+    "ENR.DE",
+    "IDIA.SW"
+   ]
+  },
+  {
+   "monat": "2026-10",
+   "datum": "2026-10-30",
+   "rein": [
+    "AMS.SW"
+   ],
+   "raus": [
+    "CAT"
+   ]
+  }
+ ]
+}
