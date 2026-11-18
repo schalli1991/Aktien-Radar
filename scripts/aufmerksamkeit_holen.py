@@ -14,7 +14,7 @@ import unicodedata
 from datetime import date, timedelta
 from difflib import SequenceMatcher
 from pathlib import Path
-from urllib.parse import quote
+from urllib.parse import quote, unquote
 
 import pandas as pd
 import requests
@@ -56,7 +56,7 @@ def wikidata_tabelle() -> pd.DataFrame:
         try:
             r = S.get("https://query.wikidata.org/sparql", params={"query": SPARQL, "format": "json"}, timeout=120)
             r.raise_for_status()
-            rows = [(b["ticker"]["value"].upper(), b["article"]["value"].rsplit("/", 1)[-1])
+            rows = [(b["ticker"]["value"].upper(), unquote(b["article"]["value"].rsplit("/", 1)[-1]))
                     for b in r.json()["results"]["bindings"]]
             return pd.DataFrame(rows, columns=["sym", "artikel"]).drop_duplicates()
         except Exception as e:  # noqa: BLE001
