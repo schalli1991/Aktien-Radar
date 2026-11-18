@@ -1,0 +1,21 @@
+art;regel;periode;n;cagr;mdd;rendite_risiko;schlägt_halten_%;median_verhältnis
+Timing;Halten;2005–2018;257;10.175;-54.139;0.613;0.000;1.000
+Timing;Halten;2019–2026;317;13.526;-35.043;0.794;0.000;1.000
+Timing;Trendfilter 200T;2005–2018;257;5.296;-20.556;0.688;25.681;0.638
+Timing;Trendfilter 200T;2019–2026;317;5.554;-14.067;0.756;21.451;0.665
+Timing;Trendbruch nach Risk 90;2005–2018;257;9.079;-54.168;0.559;12.451;0.872
+Timing;Trendbruch nach Risk 90;2019–2026;317;12.612;-32.896;0.775;24.290;0.921
+Timing;Halbe Position ab Risk 95;2005–2018;257;10.028;-54.080;0.606;39.300;0.997
+Timing;Halbe Position ab Risk 95;2019–2026;317;13.384;-34.879;0.787;43.533;1.000
+Timing;Marktfilter (Index über 200T);2005–2018;257;5.184;-20.368;0.579;26.848;0.599
+Timing;Marktfilter (Index über 200T);2019–2026;317;4.388;-22.030;0.413;9.148;0.575
+Rotation;Alle gleich gewichtet (Vergleich);2005–2018;20;10.433;-54.059;0.627;;
+Rotation;Alle gleich gewichtet (Vergleich);2019–2026;20;13.628;-35.508;0.770;;
+Rotation;Momentum Top 20;2005–2018;20;18.531;-50.976;0.882;;
+Rotation;Momentum Top 20;2019–2026;20;40.342;-44.315;1.236;;
+Rotation;Momentum Top 20 ohne Risk 90+;2005–2018;20;18.916;-51.114;0.912;;
+Rotation;Momentum Top 20 ohne Risk 90+;2019–2026;20;35.360;-42.400;1.145;;
+Rotation;Momentum Top 20 + Marktfilter;2005–2018;20;22.585;-23.694;1.319;;
+Rotation;Momentum Top 20 + Marktfilter;2019–2026;20;20.811;-44.863;0.745;;
+Rotation;Tiefster Risk über 200T, Top 20;2005–2018;20;-0.648;-59.236;-0.040;;
+Rotation;Tiefster Risk über 200T, Top 20;2019–2026;20;3.430;-34.016;0.179;;
