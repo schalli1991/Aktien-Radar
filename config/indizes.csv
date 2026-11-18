@@ -1,0 +1,6 @@
+ticker;name;boerse;waehrung;thema;hinweis
+^GSPC;S&P 500;Index;USD;Index;
+^NDX;Nasdaq 100;Index;USD;Index;
+^SSMI;SMI;Index;CHF;Index;
+^GDAXI;DAX;Index;EUR;Index;
+^STOXX50E;Euro Stoxx 50;Index;EUR;Index;
