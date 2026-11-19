@@ -234,6 +234,8 @@ def main():
             rec["att"] = {k: a[k] for k in ("aufrufe28", "basis180", "faktor")}
             rec["attW"] = a["woche"]
         titel[t] = rec
+    fehlend = [t for t in u.index if t not in titel]
+    print("Ohne aktuelle Kurse:", fehlend)
     raus = [t for t in (st["historie"][-1]["raus"] if st["historie"] else []) if t in titel]
     for t in raus:
         titel[t]["st"] = "raus"
@@ -278,7 +280,7 @@ def main():
                   "stichtag": str(me_letzt.date())},
         "bestand": st["titel"], "historie": st["historie"][-12:],
         "markt": markt, "breite": breite, "alle": {k: v for k, v in alle.items() if k != "titel"},
-        "themen": themen, "ki": kib, "attStand": att_stand, "titel": titel,
+        "themen": themen, "ki": kib, "attStand": att_stand, "fehlend": fehlend, "titel": titel,
     }
     SITE.mkdir(exist_ok=True)
     (SITE / "aktien.json").write_text(json.dumps(out, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
